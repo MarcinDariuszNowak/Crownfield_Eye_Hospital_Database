@@ -2,7 +2,7 @@
 
 ## About the project
 
-This is my project for the CPU4:103 Introduction to Database module.
+This is my project for "Introduction to Database" module.
 I used MySQL to build a database for a fictional eye hospital.
 The database helps organise patients, doctors, clinics, appointments, diagnoses, medicines, prescriptions and follow-up visits.
 
